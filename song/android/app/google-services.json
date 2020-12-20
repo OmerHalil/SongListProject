@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105215667826",
+    "project_id": "songs-5b0df",
+    "storage_bucket": "songs-5b0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105215667826:android:20334cfb72b2861fa71ceb",
+        "android_client_info": {
+          "package_name": "com.song"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105215667826-nfhtovsorf6lafn3cae7e775lp5buesh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJbcg_pE4T26weT83UrpkXW8weRCtl7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105215667826-nfhtovsorf6lafn3cae7e775lp5buesh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
