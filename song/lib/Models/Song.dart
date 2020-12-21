@@ -6,7 +6,7 @@ class Song{
   String band;
   String image;
   int year;
+  bool isLiked;
 
-
-  Song({this.id,this.band,this.image,this.name,this.year});
+  Song({this.isLiked, this.id,this.band,this.image,this.name,this.year});
 }
